@@ -1,1 +1,2 @@
-# Streamlit-python
+- Run command: uv run streamlit run main.py
+- Normal run without UV : streamlit run main.py# Streamlit-python
