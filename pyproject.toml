@@ -1,9 +1,10 @@
 [project]
-name = "streamlit-py"
+name = "streamlit-python"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "streamlit>=1.35"
+    "pypdf2>=3.0.1",
+    "streamlit>=1.47.1",
 ]
